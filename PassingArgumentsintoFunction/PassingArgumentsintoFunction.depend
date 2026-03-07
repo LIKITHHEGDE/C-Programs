@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718373568 source:c:\cprogprojects\passingargumentsintofunction\main.c
+	<stdio.h>
+	<stdlib.h>
+

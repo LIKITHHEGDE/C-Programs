@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712253899 source:c:\cprogprojects\ramesh_salary_profit\main.c
+	<stdio.h>
+	<stdlib.h>
+

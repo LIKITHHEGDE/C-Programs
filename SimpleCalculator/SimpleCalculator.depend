@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721500669 source:c:\cprogprojects\simplecalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

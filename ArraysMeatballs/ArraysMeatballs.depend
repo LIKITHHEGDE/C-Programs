@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1716816381 source:c:\cprogprojects\arraysmeatballs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+

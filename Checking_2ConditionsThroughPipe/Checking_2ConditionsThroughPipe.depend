@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715018993 source:c:\cprogprojects\checking_2conditionsthroughpipe\main.c
+	<stdio.h>
+	<stdlib.h>
+

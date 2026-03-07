@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721653924 source:c:\cprogprojects\creatingstructureforallstudentsinclass\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

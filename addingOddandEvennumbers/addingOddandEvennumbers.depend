@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717318260 source:c:\cprogprojects\addingoddandevennumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

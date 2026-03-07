@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718776882 source:c:\cprogprojects\toaddthesumofdigits\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1718781584 source:c:\cprogprojects\creatingmatrixusingarrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+

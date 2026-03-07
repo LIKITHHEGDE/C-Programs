@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1711563772 source:c:\cprogprojects\demo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DemoExt.h"
+
+1711563734 c:\cprogprojects\demo\demoext.h
+

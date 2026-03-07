@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719493681 source:c:\cprogprojects\tocalculatethelengthofstring\main.c
+	<stdio.h>
+	<stdlib.h>
+

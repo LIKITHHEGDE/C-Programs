@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715503175 source:c:\cprogprojects\whileloopdoublingamt\main.c
+	<stdio.h>
+	<stdlib.h>
+

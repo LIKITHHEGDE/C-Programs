@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716567012 source:c:\cprogprojects\guessingrandomnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
